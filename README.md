@@ -1,2 +1,0 @@
-# restaurant
-restaurant sample design
